@@ -1,0 +1,314 @@
+[
+  {
+    "tên file": "2026-03-30-go-di-an.md",
+    "địa chỉ": "Phường Đông Hòa, TP. Dĩ An, Bình Dương",
+    "địa điểm": "GO! Dĩ An",
+    "địa điểm check-in": [
+      {
+        "động": "Khu vực chờ sang trọng",
+        "link ảnh": "/assets/go-di-an-khu-cho.jpg"
+      },
+      {
+        "động": "Rạp chiếu phim hiện đại",
+        "link ảnh": "/assets/go-di-an-rap-chieu-phim.jpg"
+      },
+      {
+        "động": "Khu ẩm thực đa dạng",
+        "link ảnh": "/assets/go-di-an-am-thuc.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-06-review-lau-dai-pho-coffee-di-an-khong-gian-chau-au-cu-kinh.md",
+    "địa chỉ": "Đường Nguyễn An Ninh, Dĩ An, Bình Dương",
+    "địa điểm": "Lâu Đài Phố Coffee",
+    "địa điểm check-in": [
+      {
+        "động": "Kiến trúc lâu đài châu Âu cổ kính",
+        "link ảnh": "/assets/lau-dai-pho-coffee-kien-truc.jpg"
+      },
+      {
+        "động": "Góc decor lâu đài đẹp mắt",
+        "link ảnh": "/assets/lau-dai-pho-coffee-decor.jpg"
+      },
+      {
+        "động": "View từ ban công lâu đài",
+        "link ảnh": "/assets/lau-dai-pho-coffee-view.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-06-review-quan-cafe-hoc-bai-yen-tinh-o-di-an.md",
+    "địa chỉ": "Hẻm 94 Nguyễn An Ninh, Dĩ An, Bình Dương",
+    "địa điểm": "Kohchin Cafe",
+    "địa điểm check-in": [
+      {
+        "động": "Góc quán nhỏ yên tĩnh",
+        "link ảnh": "/assets/kohchin-cafe-goc-yen-tinh.jpg"
+      },
+      {
+        "động": "Khu vực học bài riêng tư",
+        "link ảnh": "/assets/kohchin-cafe-hoc-bai.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-06-review-quan-cafe-gan-lang-dai-hoc-di-an.md",
+    "địa chỉ": "130 Nguyễn Bỉnh Khiêm, Đông Hòa, TP. Dĩ An, Bình Dương",
+    "địa điểm": "Home Coffee",
+    "địa điểm check-in": [
+      {
+        "động": "Không gian quán gần trường",
+        "link ảnh": "/assets/home-coffee-gan-lang-dai-hoc.jpg"
+      },
+      {
+        "động": "Góc ngồi học bài",
+        "link ảnh": "/assets/home-coffee-hoc-bai.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-06-top-quan-cafe-hoc-bai-yen-tinh-o-di-an.md",
+    "địa chỉ": "49 Đường K, Dĩ An, Bình Dương",
+    "địa điểm": "SnOw Cafe Dĩ An",
+    "địa điểm check-in": [
+      {
+        "động": "Không gian quán rộng rãi",
+        "link ảnh": "/assets/snow-cafe-khong-gian.jpg"
+      },
+      {
+        "động": "Góc decor đẹp",
+        "link ảnh": "/assets/snow-cafe-decor.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-06-review-chua-chau-thoi-di-an-ngoi-co-tu-tren-nui.md",
+    "địa chỉ": "Núi Châu Thới, Phường Bình An, TP. Dĩ An, Bình Dương",
+    "địa điểm": "Chùa Châu Thới",
+    "địa điểm check-in": [
+      {
+        "động": "Tượng Phật Quan Thế Âm lộ thiên",
+        "link ảnh": "/assets/tuong-phat-chua-chau-thoi.jpg"
+      },
+      {
+        "động": "View từ đỉnh núi nhìn thành phố",
+        "link ảnh": "/assets/view-tu-chua-chau-thoi.jpg"
+      },
+      {
+        "động": "Chi tiết chạm trổ rồng phượng",
+        "link ảnh": "/assets/rong-phuong-chua-chau-thoi.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-07-review-bigboss-coffee-di-an-khong-gian-rong-rai-thich-hop-lam-viec.md",
+    "địa chỉ": "28-30 đường GS1, Dĩ An, Bình Dương",
+    "địa điểm": "Bigboss Coffee",
+    "địa điểm check-in": [
+      {
+        "động": "Khu vực ngoài trời thoáng mát",
+        "link ảnh": "/assets/bigboss-coffee-ngoai-troi.jpg"
+      },
+      {
+        "động": "Không gian trong nhà sang trọng",
+        "link ảnh": "/assets/bigboss-coffee-trong-nha.jpg"
+      },
+      {
+        "động": "Góc decor hiện đại",
+        "link ảnh": "/assets/bigboss-coffee-decor.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-07-review-ho-da-lang-dai-hoc-di-an-diem-check-in-sinh-vien.md",
+    "địa chỉ": "Khu đô thị Đại học Quốc gia TP.HCM, Phường Đông Hòa, TP. Dĩ An, Bình Dương",
+    "địa điểm": "Hồ Đá Làng Đại học",
+    "địa điểm check-in": [
+      {
+        "động": "Ngắm hoàng hôn trên mặt hồ",
+        "link ảnh": "/assets/hoang-hon-ho-da.jpg"
+      },
+      {
+        "động": "Khu vực hóng gió ven hồ",
+        "link ảnh": "/assets/hong-gio-ho-da.jpg"
+      },
+      {
+        "động": "Nhóm sinh viên check-in",
+        "link ảnh": "/assets/sinh-vien-check-in-ho-da.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-07-review-kohchin-cafe-di-an-quan-nho-yen-tinh-thich-hop-hoc-bai.md",
+    "địa chỉ": "Hẻm 94 Nguyễn An Ninh, Dĩ An, Bình Dương",
+    "địa điểm": "Kohchin Cafe",
+    "địa điểm check-in": [
+      {
+        "động": "Không gian quán nhỏ ấm cúng",
+        "link ảnh": "/assets/kohchin-cafe-am-cung.jpg"
+      },
+      {
+        "động": "Góc học bài yên tĩnh",
+        "link ảnh": "/assets/kohchin-cafe-hoc-bai-yen-tinh.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-07-review-the-cup-cafe-vincom-di-an.md",
+    "địa chỉ": "79 DT743, TP. Dĩ An, Bình Dương",
+    "địa điểm": "The Cup Cafe Vincom",
+    "địa điểm check-in": [
+      {
+        "động": "Không gian hiện đại trong trung tâm thương mại",
+        "link ảnh": "/assets/the-cup-cafe-hien-dai.jpg"
+      },
+      {
+        "động": "Khu vực máy lạnh yên tĩnh",
+        "link ảnh": "/assets/the-cup-cafe-may-lanh.jpg"
+      },
+      {
+        "động": "Góc ngồi học bài cá nhân",
+        "link ảnh": "/assets/the-cup-cafe-hoc-bai.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-07-review-vuon-nhiet-doi-coffee-di-an.md",
+    "địa chỉ": "19/15 Hai Bà Trưng, Đông Hòa, Dĩ An",
+    "địa điểm": "Vườn Nhiệt Đới Coffee",
+    "địa điểm check-in": [
+      {
+        "động": "Khu vực sân vườn xanh mát",
+        "link ảnh": "/assets/vuon-nhiet-doi-san-vuon.jpg"
+      },
+      {
+        "động": "Không gian thiên nhiên thoáng đãng",
+        "link ảnh": "/assets/vuon-nhiet-doi-thien-nhien.jpg"
+      },
+      {
+        "động": "Góc yên tĩnh học bài",
+        "link ảnh": "/assets/vuon-nhiet-doi-yen-tinh.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-07-review-yummy-tra-sua-di-an-mi-cay-do-an-vat-ngon-re.md",
+    "địa chỉ": "476 Nguyễn Tri Phương, Dĩ An, Bình Dương",
+    "địa điểm": "YUMMY Trà sữa",
+    "địa điểm check-in": [
+      {
+        "động": "Không gian trẻ trung nhiều góc decor",
+        "link ảnh": "/assets/yummy-tra-sua-decor.jpg"
+      },
+      {
+        "động": "Khu vực chụp ảnh check-in",
+        "link ảnh": "/assets/yummy-tra-sua-check-in.jpg"
+      },
+      {
+        "động": "Góc quán rộng rãi tụ tập nhóm",
+        "link ảnh": "/assets/yummy-tra-sua-nhom.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-07-top-5-quan-cafe-hoc-bai-yen-tinh-o-di-an.md",
+    "địa chỉ": "Các địa điểm khác nhau tại Dĩ An",
+    "địa điểm": "Top 5 quán cafe học bài",
+    "địa điểm check-in": [
+      {
+        "động": "Tổng hợp các quán cafe đẹp",
+        "link ảnh": "/assets/top-5-cafe-tong-hop.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-08-review-khu-du-lich-thuy-chau-di-an-diem-tranh-nong-ly-tuong.md",
+    "địa chỉ": "Số 55 ĐT743A, Phường Bình An, TP. Dĩ An, Bình Dương",
+    "địa điểm": "Khu du lịch Thủy Châu",
+    "địa điểm check-in": [
+      {
+        "động": "Khu vực tắm suối nhân tạo",
+        "link ảnh": "/assets/tam-suoi-thuy-chau.jpg"
+      },
+      {
+        "động": "Hồ bơi công viên",
+        "link ảnh": "/assets/ho-boi-thuy-chau.jpg"
+      },
+      {
+        "động": "Khu vực dã ngoại picnic",
+        "link ảnh": "/assets/picnic-thuy-chau.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-09-review-cho-di-an-2-thien-duong-mua-sam-va-an-uong-chi-tiet.md",
+    "địa chỉ": "Phường An Bình, TP. Dĩ An, Bình Dương",
+    "địa điểm": "Chợ Dĩ An 2",
+    "địa điểm check-in": [
+      {
+        "động": "Cổng chợ nhộn nhịp",
+        "link ảnh": "/assets/cong-cho-di-an-2.jpg"
+      },
+      {
+        "động": "Khu ẩm thực đa dạng",
+        "link ảnh": "/assets/am-thuc-cho-di-an-2.jpg"
+      },
+      {
+        "động": "Gian hàng thời trang giá rẻ",
+        "link ảnh": "/assets/thoi-trang-cho-di-an-2.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-10-ga-di-an-nha-ga-tram-nam-tuoi-di-tich-duong-sat-binh-duong.md",
+    "địa chỉ": "Đường sắt Bắc-Nam, TP. Dĩ An, Bình Dương",
+    "địa điểm": "Ga Dĩ An",
+    "địa điểm check-in": [
+      {
+        "động": "Kiến trúc nhà ga cổ kính",
+        "link ảnh": "/assets/nha-ga-di-an-co-kinh.jpg"
+      },
+      {
+        "động": "Sân ga với đường ray",
+        "link ảnh": "/assets/san-ga-di-an.jpg"
+      },
+      {
+        "động": "Phong cách retro cổ điển",
+        "link ảnh": "/assets/ga-di-an-retro.jpg"
+      }
+    ]
+  },
+  {
+    "tên file": "2026-04-11-vui-choi-tai-cong-vien-hanh-chinh-di-an-la-phoi-xanh-thanh-pho.md",
+    "địa chỉ": "Trung tâm hành chính TP. Dĩ An, Bình Dương",
+    "địa điểm": "Công viên hành chính Dĩ An",
+    "địa điểm check-in": [
+      {
+        "động": "Không gian xanh mát rộng lớn",
+        "link ảnh": "/assets/cong-vien-hanh-chinh-xanh-mat.jpg"
+      },
+      {
+        "động": "Khu vui chơi trẻ em",
+        "link ảnh": "/assets/cong-vien-tre-em.jpg"
+      },
+      {
+        "động": "Hoạt động thể dục ngoài trời",
+        "link ảnh": "/assets/hoat-dong-tai-cong-vien-di-an.jpg"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
