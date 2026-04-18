@@ -1,0 +1,22 @@
+<h3>Bài cùng chủ đề</h3>
+<ul>
+  {% assign count = 0 %}
+  {% for post in site.posts %}
+    {% if post.url != page.url %}
+      {% assign has_common = false %}
+      {% for cat in post.categories %}
+        {% if cat != "Review" and page.categories contains cat %}
+          {% assign has_common = true %}
+        {% endif %}
+      {% endfor %}
+
+      {% if has_common %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+        {% assign count = count | plus: 1 %}
+        {% if count == 5 %}{% break %}{% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
