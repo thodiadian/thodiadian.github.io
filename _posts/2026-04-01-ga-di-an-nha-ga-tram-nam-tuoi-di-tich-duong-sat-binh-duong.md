@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Khám Phá Ga Dĩ An: Nhà Ga Cổ Kính Hơn 100 Năm Tuổi Tại Bình Dương]"
+title: "Khám Phá Ga Dĩ An: Nhà Ga Cổ Kính Hơn 100 Năm Tuổi Tại Bình Dương"
 date: 2026-04-10 09:00:00 +0700
 categories: [Review, Lịch sử]
 tags: [ga dĩ an, đường sắt việt nam, di tích dĩ an, ga tàu bình dương]

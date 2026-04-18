@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Review Chợ Dĩ An 2: Thiên Đường Mua Sắm & Ăn Uống Giá Rẻ Bậc Nhất]"
+title: "Review Chợ Dĩ An 2: Thiên Đường Mua Sắm & Ăn Uống Giá Rẻ Bậc Nhất"
 date: 2026-04-09 08:00:00 +0700
 categories: [Review, Địa điểm]
 tags: [chợ dĩ an 2, mua sắm dĩ an, ăn vặt dĩ an, kinh nghiệm đi chợ, chợ bình đường]
