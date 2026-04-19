@@ -25,12 +25,15 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: 'https://thodiadian.github.io'
 
+github:
+  username: thodiadian
 
 social:
-
   name: thổ địa Dĩ An
   email: hieukhongprovipno1@gmail.com
-  
+  links:
+    - https://github.com/thodiadian
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
