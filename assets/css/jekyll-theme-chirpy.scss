@@ -22,3 +22,16 @@ footer {
 .post-tail-bottom, .post-license {
     display: none !important;
 }
+
+/* 4. Sửa ảnh Avatar to ra, lấp đầy vòng tròn */
+#avatar {
+    padding: 0 !important; /* Xóa khoảng trắng thừa (padding) mặc định của theme */
+    background: transparent !important;
+}
+
+#avatar img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important; /* Cắt cúp ảnh vừa vặn khung hình tròn không bị méo */
+    border-radius: 50% !important;
+}
