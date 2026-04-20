@@ -58,5 +58,5 @@ Từ 20k bạn có thể gọi dĩa cơm hay mì đơn giản hoặc tiêu 45k c
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** 
-- Đừng bỏ lỡ: [Review quán hủ tiếu rẻ nhất cho sinh viên](/.2026-04-15-review-quan-hu-tiu-tan-lap.md)
+****Bài viết liên quan bạn nên xem :**** 
+- Đừng bỏ lỡ: [Review quán hủ tiếu rẻ nhất cho sinh viên](./2026-04-15-review-quan-hu-tiu-tan-lap.md)
