@@ -53,5 +53,6 @@ Thổ địa Dĩ An chưa thấy quán món nước nào vừa rẻ vừa ngon v
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem:****  
+- Nhấn vào đây để xem thêm: [Cơm gà sốt cay ngon nhất làng đại học](/.2026-04-15-review-quan-com-ga-green.md)  
+- Đừng bỏ lỡ: [Cơm tấm ngon nhất làng đại học](/.2026-04-15-review-quan-com-ngo-quyen.md)
