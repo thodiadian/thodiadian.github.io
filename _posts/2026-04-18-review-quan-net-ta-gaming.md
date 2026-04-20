@@ -56,4 +56,4 @@ Chủ quán còn đảm bảo coi giữ xe và bảo quản không gian là khô
 ---
 
 ****Bài viết liên quan bạn nên xem:**** 
-- Đừng bỏ lỡ: [Quán bò né rẻ và ngon nhất trong làng đại học](./2026-04-18-review-quan-bo-ne-lang-dai-hoc.md)
+- Đừng bỏ lỡ: [Quán bò né rẻ và ngon nhất trong làng đại học](/posts/review-quan-bo-ne-lang-dai-hoc)

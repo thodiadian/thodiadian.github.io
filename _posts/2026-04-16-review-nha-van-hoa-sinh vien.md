@@ -47,4 +47,4 @@ Nếu sinh viên muốn ăn vặt hay mua đồ gia dụng, quần áo với kin
 ---
 
 ****Bài viết liên quan bạn nên xem:**** 
-- Đừng bỏ lỡ: [Ăn uống ở căn tin xịn nhất làng đại học](./2026-04-16-review-canteen-dai-hoc-ngoai-thuong.md)
+- Đừng bỏ lỡ: [Ăn uống ở căn tin xịn nhất làng đại học](/posts/review-canteen-dai-hoc-ngoai-thuong)

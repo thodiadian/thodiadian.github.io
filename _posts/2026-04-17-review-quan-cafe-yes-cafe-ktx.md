@@ -55,4 +55,4 @@ Nếu bạn muốn, bạn còn có thể ngủ trọ qua đêm ở đây nhưng 
 ---
 
 ****Bài viết liên quan bạn nên xem:**** 
-- Đừng bỏ lỡ: [Đêm ăn gì gần ký túc xá ?](./2026-04-15-review-quan-che-tham.md)
+- Đừng bỏ lỡ: [Đêm ăn gì gần ký túc xá ?](/posts/review-quan-che-tham)
