@@ -55,5 +55,5 @@ Chủ quán còn đảm bảo coi giữ xe và bảo quản không gian là khô
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem:**** 
+- Đừng bỏ lỡ: [Quán bò né rẻ và ngon nhất trong làng đại học](./2026-04-18-review-quan-bo-ne-lang-dai-hoc.md)
