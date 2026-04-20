@@ -41,5 +41,5 @@ Khẩu phần ăn vừa đủ no so với giá.
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem:****  
+- Đừng bỏ lỡ: [Quán cơm tấm ngon gần làng đại học](./2026-04-15-review-quan-com-ngo-quyen.md)
