@@ -6,7 +6,7 @@ categories: [Review, Trung tâm văn hóa]
 tags: [trung tâm giải trí, làng đại học, thể thao, xem phim]  
 description: "Review các hoạt động giải trí vui chơi trong nhà văn hóa sinh viên, nơi xả stress, chợ đêm trong làng đại học."  
 image:  
-  path: /assets/images/nha_van_hoa_giai_tri-dem.jpg
+  path: /assets/images/nha_van_hoa_giai_tri_dem.jpg
   alt: "Nhà văn hóa sinh viên về đêm"  
 ---
 
