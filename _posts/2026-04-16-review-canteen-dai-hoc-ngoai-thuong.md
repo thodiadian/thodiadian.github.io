@@ -58,5 +58,5 @@ Từ 20k bạn có thể gọi dĩa cơm hay mì đơn giản hoặc tiêu 45k c
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem (Internal Link):**** 
+- Đừng bỏ lỡ: [Review quán hủ tiếu rẻ nhất cho sinh viên](/.2026-04-15-review-quan-hu-tiu-tan-lap.md)
