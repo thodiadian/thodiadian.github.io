@@ -1,10 +1,10 @@
 ---  
 layout: post  
-title: "Review căn tin đại học ngoại thương - căn tin lớn nhất làng đại học"  
+title: "Review căn tin đại học quốc tế - căn tin lớn nhất làng đại học"  
 date: 2026-04-16 08:00:00 +0700  
 categories: [Review, ăn uống, ăn uống sinh viên]   
 tags: [ăn trưa, làng đại học]  
-description: "Review căn tin đại học ngoại thương - căn tin làng đại học lớn nhất, ăn đồ châu âu châu á"  
+description: "Review căn tin đại học quốc tế - căn tin làng đại học lớn nhất, ăn đồ châu âu châu á"  
 image:  
   path: /assets/images/can_tin_IU_lon_nhat.jpg  
   alt: "Không gian căn tin ăn uống cho sinh viên"  
@@ -14,16 +14,16 @@ image:
 
 
 
-## 1. Không gian căn tin đại học ngoại thương có gì đặc biệt ?
+## 1. Không gian căn tin đại học quốc tế có gì đặc biệt ?
 
-Đại học ngoại thương chắc chắn là có căn tin lớn nhất cả làng đại học với diện tích lên đến 1600m².  
+Đại học quốc tế chắc chắn là có căn tin lớn nhất cả làng đại học với diện tích lên đến 1600m².  
 Căn tin không chỉ có ghế ngồi bên trong mà còn có ghế ngồi ngoài trời, có bóng râm, rất thông thoáng và không bị ngộp hay nóng hầm
 
 ![Không gian ăn uống sinh viên](/assets/images/can_tin_IU_lon_nhat.jpg)  
 *Không gian ăn uống lớn rộng rãi*
 
 
-## 2. Đến căn tin ngoại thương thì ăn gì ?
+## 2. Đến căn tin quốc tế thì ăn gì ?
 
 Căn tin IU là tập hợp của nhiều hãng ăn uống khác nhau và bán đa dạng các món từ món Âu đến món châu Á.  
 Tất cả các hãng đều có đa dạng thực đơn, tha hồ khám phá văn hóa ăn uống bên ngoài Đông Nam Á, tất cả ăn đều rất tươi, ngon và nóng hổi vì chúng được nấu trong ngày.  
