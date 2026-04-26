@@ -154,18 +154,18 @@ Weme Sports là một chuỗi sân thể thao hiện đại, được quản lý
 * **📍 Địa chỉ:** Khu vực Thảo Nguyên, Phường Dĩ An, TP. Dĩ An, Bình Dương
 * **⏰ Giờ mở cửa:** 06:00 – 23:00
 * **💰 Giá:** 250.000đ - 350.000đ/giờ
-* **🗺️ Google Maps:** [Chỉ đường tại đây](https://www.google.com/maps/place/S%C3%A2n+B%C3%B3ng+%C4%90%C3%A1+Th%E1%BA%A3o+Nguy%C3%AAn+D%C4%A9+An/@10.9258821,106.7536387,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d90037ead15b:0xf711efa937a8e438!8m2!3d10.9258769!4d106.7585096!16s%2Fg%2F11xfh_j95d?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D)
+* **🗺️ Google Maps:** [Sân Bóng Đá Thảo Nguyên](https://www.google.com/maps/place/S%C3%A2n+B%C3%B3ng+%C4%90%C3%A1+Th%E1%BA%A3o+Nguy%C3%AAn+D%C4%A9+An/@10.9258821,106.7536387,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d90037ead15b:0xf711efa937a8e438!8m2!3d10.9258769!4d106.7585096!16s%2Fg%2F11xfh_j95d?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D)
 
 ### Sân Pickleball Thiên Long Dĩ An
 * **📍 Địa chỉ:** Khu vực Thiên Long, Phường Dĩ An, TP. Dĩ An, Bình Dương
 * **⏰ Giờ mở cửa:** 07:00 – 21:00
 * **💰 Giá:** 80.000đ - 150.000đ/giờ
-* **🗺️ Google Maps:** [Chỉ đường tại đây] (https://www.google.com/maps/place/S%C3%A2n+pickleball+thi%C3%AAn+long+d%C4%A9+an/@10.8942468,106.7743625,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d9001b30b1cb:0x6f91ef3ac542a9ec!8m2!3d10.8942415!4d106.7769374!16s%2Fg%2F11wv2cg3_c?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D)
+* **🗺️ Google Maps:** [Sân Pickleball Thiên Long Dĩ An](https://www.google.com/maps/place/S%C3%A2n+pickleball+thi%C3%AAn+long+d%C4%A9+an/@10.8942468,106.7743625,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d9001b30b1cb:0x6f91ef3ac542a9ec!8m2!3d10.8942415!4d106.7769374!16s%2Fg%2F11wv2cg3_c?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D)
 
 ### Weme Sports
 * **⏰ Giờ mở cửa:** 06:00 – 23:00
 * **💰 Giá:** 200.000đ - 400.000đ/giờ
-* **🗺️ Google Maps:** [Chỉ đường tại đây] (https://www.google.com/maps/place/S%C3%A2n+B%C3%B3ng+Weme+Sports/@10.8942729,106.7666377,15z/data=!4m10!1m2!2m1!1sWeme+Sports+d%C4%A9+an!3m6!1s0x3174d915f55db1e5:0x47d4837300e5ec6d!8m2!3d10.8946642!4d106.78951!15sChJXZW1lIFNwb3J0cyBkxKkgYW5aFCISd2VtZSBzcG9ydHMgZMSpIGFukgEMc29jY2VyX2ZpZWxkmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJ3YWpoeE5VcFJFQUXgAQD6AQUIhgEQNg!16s%2Fg%2F11sv53f3q_?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D)
+* **🗺️ Google Maps:** [Weme Sports](https://www.google.com/maps/place/S%C3%A2n+B%C3%B3ng+Weme+Sports/@10.8942729,106.7666377,15z/data=!4m10!1m2!2m1!1sWeme+Sports+d%C4%A9+an!3m6!1s0x3174d915f55db1e5:0x47d4837300e5ec6d!8m2!3d10.8946642!4d106.78951!15sChJXZW1lIFNwb3J0cyBkxKkgYW5aFCISd2VtZSBzcG9ydHMgZMSpIGFukgEMc29jY2VyX2ZpZWxkmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJ3YWpoeE5VcFJFQUXgAQD6AQUIhgEQNg!16s%2Fg%2F11sv53f3q_?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D)
 ---
 
 {% include category-posts.html %}

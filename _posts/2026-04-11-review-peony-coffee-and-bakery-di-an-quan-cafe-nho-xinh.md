@@ -25,7 +25,7 @@ Peony Coffee and Bakery là một quán cà phê kết hợp tiệm bánh mỳ, 
 * **💻 Tiếp nhận đặt bánh trước:** Có sẵn dịch vụ đặt bánh qua điện thoại hoặc trực tiếp.
 
 ![Peony Coffee and Bakery - Không gian bên ngoài](/assets/images/peony_coffee_bakery-1000-630.jpg)
-*Chú thích ảnh: Diện mạo xinh đẹp của Peony Coffee and Bakery*
+*Diện mạo xinh đẹp của Peony Coffee and Bakery*
 
 ## 2. Không Gian Và Atmosphere
 
@@ -101,7 +101,7 @@ Menu cà phê tại Peony được thiết kế để đáp ứng nhu cầu củ
 * **Không gian yên tĩnh:** Quán không quá ồn ào, phù hợp cho những ai muốn tập trung làm việc.
 
 ![Peony Coffee and Bakery - Menu](/assets/images/peony_caffee_bakery_menu-900-630.jpg)
-*Chú thích ảnh: Các loại bánh tươi ngon tại Peony*
+*Các loại bánh tươi ngon tại Peony*
 
 ## 6. Đánh Giá Ưu Và Nhược Điểm
 

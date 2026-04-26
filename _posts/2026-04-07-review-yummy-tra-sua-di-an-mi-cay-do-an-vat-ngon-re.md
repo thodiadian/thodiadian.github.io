@@ -42,7 +42,7 @@ YUMMY còn là thiên đường của các món ăn vặt. Thực đơn ăn vặ
 
 ![Thực đơn đa dạng trà sữa, mì cay, đồ ăn vặt tại YUMMY Dĩ An](/assets/images/tra_sua_yummy_menu_my_cay-1200-800.jpg)
 ![Thực đơn đa dạng trà sữa, mì cay, đồ ăn vặt tại YUMMY Dĩ An](/assets/images/tra_sua_yummy_menu_tra_sua-1200-800.jpg)
-*Chú thích ảnh: Menu đồ uống và đồ ăn vặt phong phú, hấp dẫn tại YUMMY*
+*Menu đồ uống và đồ ăn vặt phong phú, hấp dẫn tại YUMMY*
 
 💡 **Mẹo nhỏ:** Hãy thử combo “trà sữa + mì cay + bánh tráng trộn”, đây là bộ ba best-seller được nhiều khách hàng yêu thích nhất tại quán. Vừa có đồ uống mát lạnh, vừa có món cay nóng, lại thêm đồ ăn vặt giòn tan, đảm bảo sẽ làm hài lòng cả những thực khách khó tính nhất!
 
