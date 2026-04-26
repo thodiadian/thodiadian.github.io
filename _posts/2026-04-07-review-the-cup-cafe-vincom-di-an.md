@@ -17,7 +17,7 @@ image:
 Quán nằm trong trung tâm thương mại Vincom nên có lợi thế rất lớn về không gian: sạch sẽ, thoáng mát và được thiết kế hiện đại. Ngay khi bước vào, bạn sẽ cảm nhận được sự gọn gàng và chuyên nghiệp.
 
 ![[Không gian The Cup Cafe Dĩ An]](/assets/images/the_cup_cafe_vincom_di_an-1200-750.jpg)
-*Chú thích ảnh: Không gian hiện đại, nhiều ánh sáng*
+*Không gian hiện đại, nhiều ánh sáng*
 
 Không gian được chia thành nhiều khu vực, giúp bạn dễ dàng chọn chỗ ngồi phù hợp với mục đích học tập hoặc làm việc.
 

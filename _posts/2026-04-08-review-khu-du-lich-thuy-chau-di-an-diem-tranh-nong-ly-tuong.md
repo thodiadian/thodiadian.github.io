@@ -34,7 +34,7 @@ Nằm ngay sát trục đường huyết mạch nối liền Bình Dương và T
 Nếu bạn ngại tắm suối với nền đá gồ ghề, hãy ghé qua khu vực hồ bơi công viên rộng hơn 1.200m2. Hồ bơi được thiết kế với nhiều độ sâu khác nhau, phân chia rõ rệt khu vực cho người lớn và trẻ em. Đây là nơi lý tưởng để tổ chức các trò chơi tập thể dưới nước (team building) hoặc đơn giản là thả mình thư giãn trên những chiếc phao sắc màu.
 
 ![Khu vực tắm suối tại Thủy Châu](/assets/images/khu_du_lich_thuy_chau_1-660-800.jpg)
-*Alt Text: Khách hàng đang vui chơi tại khu vực suối nhân tạo sạch sẽ và mát mẻ của Thủy Châu*
+*Khách hàng đang vui chơi tại khu vực suối nhân tạo sạch sẽ và mát mẻ của Thủy Châu*
 
 ## 3. Kinh nghiệm ăn uống và tổ chức dã ngoại (Picnic)
 

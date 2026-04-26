@@ -24,7 +24,7 @@ Sân Vận Động Dĩ An nằm ở một vị trí rất thuận tiện, dễ t
 * **Liên hệ:** Có đường dây nóng để đặt sân hoặc tư vấn chi tiết.
 
 ![Toàn cảnh Sân Vận Động Dĩ An](/assets/images/san_van_dong_di_an_2-900-500.jpg)
-*Chú thích ảnh: Diện mạo hiện đại của Sân Vận Động Dĩ An với các tiện ích đầy đủ*
+*Diện mạo hiện đại của Sân Vận Động Dĩ An với các tiện ích đầy đủ*
 
 ## 2. Các Tiện Ích và Cơ Sở Vật Chất Tại Sân Vận Động
 
