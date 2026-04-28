@@ -10,7 +10,7 @@ image:
   alt: "Hình quán net T.A gaming về đêm"  
 ---
 
-*Bạn đang tìm kiếm một ****quán net chơi game**** hiện đại và gần làng đại học để chơi game giải trí ? Quán T.A Gaming có thể dành cho bạn.
+*Bạn đang tìm kiếm một **quán net chơi game** hiện đại và gần làng đại học để chơi game giải trí ? Quán T.A Gaming có thể dành cho bạn.
 
 ## 1. Không gian quán net T.A Gaming có gì đặc biệt ?
 
@@ -37,23 +37,23 @@ Chủ quán còn đảm bảo coi giữ xe và bảo quản không gian là khô
 
 ## 5. Đánh giá ưu và nhược điểm
 
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Trang thiết bị tốt.  
 - Ghế ngồi êm, không đau lưng.  
 - Đồ ăn, phục vụ tốt.
 
-****Nhược điểm:****  
+**Nhược điểm:**  
 - Giá hơi đắt .  
 - Không nhiều máy lắm.
 
 ## 6.Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** 160 Nguyễn Bỉnh Khiêm, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** Mở cả ngày
-- ****💰 Mức giá:**** 8.000đ trở lên
-- ****🗺️ Google Maps:**** [T.A Gaming](https://maps.app.goo.gl/UtJaxWj78d62LAn8A)
+- **📍 Địa chỉ:** 160 Nguyễn Bỉnh Khiêm, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** Mở cả ngày
+- **💰 Mức giá:** 8.000đ trở lên
+- **🗺️ Google Maps:** [T.A Gaming](https://maps.app.goo.gl/UtJaxWj78d62LAn8A)
 
 ---
 
-****Bài viết liên quan bạn nên xem:**** 
+**Bài viết liên quan bạn nên xem:** 
 - Đừng bỏ lỡ: [Quán bò né rẻ và ngon nhất trong làng đại học](/posts/review-quan-bo-ne-lang-dai-hoc)
