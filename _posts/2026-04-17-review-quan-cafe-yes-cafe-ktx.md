@@ -9,7 +9,7 @@ image:
   path: /assets/images/quan_yes_cafe.jpg  
   alt: "[Quán Yes cafe yên tĩnh]"  
 ---
-*Bạn đang tìm kiếm một ****quán cafe học bài yên tĩnh ở Dĩ An**** để làm việc hay thư giãn? Hãy cùng Thổ Địa Dĩ An khám phá quán Yes cafe*
+*Bạn đang tìm kiếm một **quán cafe học bài yên tĩnh ở Dĩ An** để làm việc hay thư giãn? Hãy cùng Thổ Địa Dĩ An khám phá quán Yes cafe*
 
 ## 1.Không gian quán cà phê YES có gì đặc biệt
 
@@ -36,23 +36,23 @@ Nhưng đặc biệt nhất là giá phòng làm việc rất rẻ, bạn có th
 Nếu bạn muốn, bạn còn có thể ngủ trọ qua đêm ở đây nhưng giá sẽ đắt hơn.**
 
 ## 4.Ưu điểm và nhược điểm
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Không gian im ắng, thư giãn, thoáng mát.  
 - Wifi cực mạnh, nhiều ổ cắm điện.  
 - phòng học riêng tư cực kỳ rẻ.
 
-****Nhược điểm:****  
+**Nhược điểm:**  
 - Giá nước uống hơi đắt.  
 - Phải đậu xe trên vỉa hè, ít bóng râm.
 
 ## 5. Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** 25-27 đường N1 KDC 61, khu phố Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** Mở cả ngày
-- ****💰 Mức giá:**** 25.000đ - 100.000đ  
-- ****🗺️ Google Maps:**** [Yes cafe KTX](https://maps.app.goo.gl/xjYny9zyVUwQebjj7)
+- **📍 Địa chỉ:** 25-27 đường N1 KDC 61, khu phố Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** Mở cả ngày
+- **💰 Mức giá:** 25.000đ - 100.000đ  
+- **🗺️ Google Maps:** [Yes cafe KTX](https://maps.app.goo.gl/xjYny9zyVUwQebjj7)
 
 ---
 
-****Bài viết liên quan bạn nên xem:**** 
+**Bài viết liên quan bạn nên xem:** 
 - Đừng bỏ lỡ: [Đêm ăn gì gần ký túc xá ?](/posts/review-quan-che-tham)
