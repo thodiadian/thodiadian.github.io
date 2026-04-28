@@ -31,30 +31,30 @@ Nước chè quán làm không quá ngọt đến lấn át vị của topping, 
 Ngoài việc bán chè, quán còn bán các loại cá viên chiên như bò viên, xúc xích, chả cá, hột gà nướng,... Ăn khá là ổn và vị mặn của thịt đi rất hợp với vị ngọt của các ly chè
 ![Menu quán chè Thắm siêu rẻ](/assets/images/menu_che_tham_ngon_re.jpg)
 
-💡 ****Mẹo nhỏ:**** Hãy thử gọi món chè sầu riêng, đây là món best-seller của quán đấy!
+💡 **Mẹo nhỏ:** Hãy thử gọi món chè sầu riêng, đây là món best-seller của quán đấy!
 
 ## 3. Giá cả hợp với sinh viên
 Chỉ từ 15k thôi là có thể gọi một ly chè ngọt và mát mẻ để ăn, giá cả rất chi là vừa túi tiền các sinh viên.  
 Rồi chi thêm vài nghìn nữa là ta có thể gọi những ly còn đậm topping hơn, rồi bỏ 15k gọi thêm dĩa cá viên chiên ăn kèm là có buổi ăn vặt đã đời
 
 ## 4. Đánh giá ưu điểm nhược điểm
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Không gian rộng, thoáng, ầm suất.  
 - Giá ăn vặt rẻ (chỉ từ 15k - 30k).  
 - Quán mở từ chiều đến 1h30 sáng.
 
-****Nhược điểm:****  
+**Nhược điểm:**  
 - Chỗ để xe hơi chật.  
 - Đêm phải giữ im lặng cho hàng xóm ngủ.
 
 ## 4.Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** 100 Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** 16:00 - 02:00  
-- ****💰 Mức giá:**** 15.000đ - 45.000đ  
-- ****🗺️ Google Maps:**** [Chè Thắm](https://maps.app.goo.gl/ZaQ9wCtk8ur34FCC6)
+- **📍 Địa chỉ:** 100 Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** 16:00 - 02:00  
+- **💰 Mức giá:** 15.000đ - 45.000đ  
+- **🗺️ Google Maps:** [Chè Thắm](https://maps.app.goo.gl/ZaQ9wCtk8ur34FCC6)
 
 ---
 
-****Bài review ăn vặt khác của chúng tôi:**** - 
+**Bài review ăn vặt khác của chúng tôi:** - 
 - Đừng bỏ lỡ: [Review quán trà trái cây ngon nhất Dĩ An](/posts/review-quan-tra-trai-cay-ben-tea)
