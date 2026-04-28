@@ -10,7 +10,7 @@ image:
   alt: "Quán cà phê box Netudy"  
 ---
 
-*Bạn đang tìm kiếm một ****quán cafe box học bài yên tĩnh gần làng đại học**** để làm việc hay thư giãn? Hãy cùng Thổ Địa Dĩ An check-in quán Netudy Box*
+*Bạn đang tìm kiếm một **quán cafe box học bài yên tĩnh gần làng đại học** để làm việc hay thư giãn? Hãy cùng Thổ Địa Dĩ An check-in quán Netudy Box*
 
 
 ## 1. Không gian quán cà phê Netudy Box có gì đặc biệt ?
@@ -32,24 +32,24 @@ Quán không bán đa dạng đồ uống lắm, chủ yếu là cà phê, trà 
 
 ## 3. Đánh giá ưu và nhược điểm
 
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Phòng làm việc đầy đủ trang thiết bị. 
 - Giá thuê phòng cực kỳ rẻ.  
 - Có chỗ giữ xe.
 
-****Nhược điểm:****  
+**Nhược điểm:**  
 - Giá nước hơi đắt, không đa dạng. 
 
 
 ## 4.Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** 99G Tân Lập, Đông Hòa, Hồ Chí Minh 70000, Việt Nam
-- ****⏰ Giờ mở cửa:**** Mở cả ngày
-- ****💰 Mức giá:**** 9.000đ - 100.000đ  
-- ****🗺️ Google Maps:**** [NETUDY Box - Study Cafe & Sleep Box , thuê phòng họp](https://maps.app.goo.gl/YUERcknvZvtw87VR9)
+- **📍 Địa chỉ:** 99G Tân Lập, Đông Hòa, Hồ Chí Minh 70000, Việt Nam
+- **⏰ Giờ mở cửa:** Mở cả ngày
+- **💰 Mức giá:** 9.000đ - 100.000đ  
+- **🗺️ Google Maps:** [NETUDY Box - Study Cafe & Sleep Box , thuê phòng họp](https://maps.app.goo.gl/YUERcknvZvtw87VR9)
 
 ---
 
-****Bài viết liên quan bạn nên xem:**** 
+**Bài viết liên quan bạn nên xem:** 
 - Đừng bỏ lỡ: [Kinh nghiệm thuê study box gần ký túc xá](/posts/review-quan-cafe-yes-cafe-ktx)
 - Xem ngay: [Cà phê học tập máy lạnh gần ký túc xá](/posts/review-quan-cafe-ken-house)
