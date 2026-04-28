@@ -31,28 +31,28 @@ Giá cả ở quán này phải gọi là cực kỳ rẻ cho một quán món n
 Thổ địa Dĩ An chưa thấy quán món nước nào vừa rẻ vừa ngon vừa ăn no như ở đây đâu
 
 
-****Mẹo nhỏ:**** Nhất định phải gọi topping hoành thánh nhồi thịt, đây là đặc trưng của quán này, hoành thánh bột mềm, dẻo, ăn không ngán, nhân thịt mặn mặn, đậm vị tiêu xanh. Phải đến quán sớm mới còn để gọi đấy !!
+**Mẹo nhỏ:** Nhất định phải gọi topping hoành thánh nhồi thịt, đây là đặc trưng của quán này, hoành thánh bột mềm, dẻo, ăn không ngán, nhân thịt mặn mặn, đậm vị tiêu xanh. Phải đến quán sớm mới còn để gọi đấy !!
 
 ## 3. Đánh giá ưu và nhược điểm
 
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Đồ ăn tươi ngon, có món đặc trưng.  
 - Giá cả rất chăng, chỉ từ 25k.  
 - Gần làng đại học.
 
-****Nhược điểm:****  
+**Nhược điểm:**  
 - Quán mở hướng ra đường nên đậu xe trên vỉa hè khá chật  
 - Đôi khi quán nghỉ vào cuối tuần hay thích là nghỉ nên đừng thất vọng nếu quán không mở nhé.
 
 ## 4.  Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** km18 Song Hành, Phường Linh Trung, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** Mở cả ngày
-- ****💰 Mức giá:**** 25.000đ - 45.000đ  
-- ****🗺️ Google Maps:**** [Hủ Tiếu 76](https://maps.app.goo.gl/VpvtPFqvDgfrXPzRA)
+- **📍 Địa chỉ:** km18 Song Hành, Phường Linh Trung, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** Mở cả ngày
+- **💰 Mức giá:** 25.000đ - 45.000đ  
+- **🗺️ Google Maps:** [Hủ Tiếu 76](https://maps.app.goo.gl/VpvtPFqvDgfrXPzRA)
 
 ---
 
-****Bài viết liên quan bạn nên xem:****  
+**Bài viết liên quan bạn nên xem:**  
 - Nhấn vào đây để xem thêm: [Cơm gà sốt cay ngon nhất làng đại học](/posts/review-quan-com-ga-green)  
 - Đừng bỏ lỡ: [Cơm tấm ngon nhất làng đại học](/posts/review-quan-com-ngo-quyen)
