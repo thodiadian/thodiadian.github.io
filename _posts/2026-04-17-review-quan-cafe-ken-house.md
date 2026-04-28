@@ -10,7 +10,7 @@ image:
   alt: "Hình quán cafe Ken House thư giãn"  
 ---
 
-*Bạn đang tìm kiếm một ****quán cafe học bài yên tĩnh gần ký túc xá**** để chạy deadline? Hãy cùng Thổ Địa Dĩ An khám phá quán Ken House coffee*
+*Bạn đang tìm kiếm một **quán cafe học bài yên tĩnh gần ký túc xá** để chạy deadline? Hãy cùng Thổ Địa Dĩ An khám phá quán Ken House coffee*
 
 ## 1. Không gian quán cà phê Ken house có gì đặc biệt ?
 
@@ -33,25 +33,25 @@ Giá của quán nằm ở phía đắt hơn cho kinh phí của các bạn sinh
 
 ## 3. Đánh giá ưu và nhược điểm
 
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Có máy lạnh mát mẻ.  
 - Có không gian ngoài trời thông thoáng.  
 - Im ắng, phù hợp để làm việc và thư giãn.  
 - Gần ký túc xá A.
 
-****Nhược điểm:****  
+**Nhược điểm:**  
 - Ngồi ngoài trời hay có muỗi.
 - Chỗ để xe trên vỉa hè hơi chật.
 
 ## 4.Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** 62 Nguyễn Bỉnh Khiêm, khu phố Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** 06:30 - 22:00  
-- ****💰 Mức giá:**** 20.000đ - 100.000đ  
-- ****🗺️ Google Maps:**** [Ken House Coffee](https://maps.app.goo.gl/PvxLY4Gb9rBYVmuk8)
+- **📍 Địa chỉ:** 62 Nguyễn Bỉnh Khiêm, khu phố Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** 06:30 - 22:00  
+- **💰 Mức giá:** 20.000đ - 100.000đ  
+- **🗺️ Google Maps:** [Ken House Coffee](https://maps.app.goo.gl/PvxLY4Gb9rBYVmuk8)
 
 ---
 
-****Bài viết liên quan bạn nên xem:****  
+**Bài viết liên quan bạn nên xem:**  
 - Đừng bỏ lỡ: [study box rẻ nhất gần làng đại học](/posts/review-quan-cafe-NETUDY-BOX)
 - Xem ngay: [Tiệm net giải trí ngày hè](/posts/review-quan-net-ta-gaming)
