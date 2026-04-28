@@ -36,11 +36,11 @@ Khẩu phần ăn vừa đủ no và còn được cho canh thịt nóng miễn 
 
 ## 4. Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** 02 Tân Lập, khu phố Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** 08:00 - 21:00  
-- ****💰 Mức giá:**** 25.000đ - 55.000đ  
-- ****🗺️ Google Maps:**** [Quán Cơm Ngô Quyền 3](https://maps.app.goo.gl/kUUcqtsynwaHaoUc6)
+- **📍 Địa chỉ:** 02 Tân Lập, khu phố Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** 08:00 - 21:00  
+- **💰 Mức giá:** 25.000đ - 55.000đ  
+- **🗺️ Google Maps:** [Quán Cơm Ngô Quyền 3](https://maps.app.goo.gl/kUUcqtsynwaHaoUc6)
 ---
 
-****Muốn ăn món Á Âu thay vì cơm tấm ? Nhấn vào link này:****  
+**Muốn ăn món Á Âu thay vì cơm tấm ? Nhấn vào link này:**  
 - Nhấn vào đây để xem thêm: [Trải nghiệm căn tin lớn nhất làng đại học - căn tin đại học quốc tế](/posts/review-canteen-dai-hoc-quoc-te)  
