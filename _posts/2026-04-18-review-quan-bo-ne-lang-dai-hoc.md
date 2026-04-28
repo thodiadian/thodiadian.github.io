@@ -34,12 +34,12 @@ Khẩu phần ăn vừa đủ no so với giá.
 
 ## 4. Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** Đường T1/2/10 Đ. Vào Đại Học Quốc Gia, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** 07:30–13:30, 15:30–21:00  
-- ****💰 Mức giá:**** 22.000đ - 50.000đ  
-- ****🗺️ Google Maps:**** [Bò Né Chibi (Beefsteak)](https://maps.app.goo.gl/mCz84w25tLTQG91G7)
+- **📍 Địa chỉ:** Đường T1/2/10 Đ. Vào Đại Học Quốc Gia, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** 07:30–13:30, 15:30–21:00  
+- **💰 Mức giá:** 22.000đ - 50.000đ  
+- **🗺️ Google Maps:** [Bò Né Chibi (Beefsteak)](https://maps.app.goo.gl/mCz84w25tLTQG91G7)
 
 ---
 
-****Bài viết liên quan bạn nên xem:****  
+**Bài viết liên quan bạn nên xem:**  
 - Đừng bỏ lỡ: [Quán cơm tấm ngon gần làng đại học](/posts/review-quan-com-ngo-quyen)
