@@ -6,7 +6,7 @@ categories: [Review, ăn uống, ăn uống sinh viên]
 tags: [ăn trưa, làng đại học]  
 description: "Review căn tin đại học quốc tế - căn tin làng đại học lớn nhất, ăn đồ châu âu châu á"  
 image:  
-  path: /assets/images/can_tin_IU_lon_nhat.jpg  
+  path: /assets/images/can_tin_IU_lon_nhat.webp  
   alt: "Không gian căn tin ăn uống cho sinh viên"  
 ---
 
@@ -19,7 +19,7 @@ image:
 Đại học quốc tế chắc chắn là có căn tin lớn nhất cả làng đại học với diện tích lên đến 1600m².  
 Căn tin không chỉ có ghế ngồi bên trong mà còn có ghế ngồi ngoài trời, có bóng râm, rất thông thoáng và không bị ngộp hay nóng hầm
 
-![Không gian ăn uống sinh viên](/assets/images/can_tin_IU_lon_nhat.jpg)  
+![Không gian ăn uống sinh viên](/assets/images/can_tin_IU_lon_nhat.webp)  
 *Không gian ăn uống lớn rộng rãi*
 
 
@@ -34,7 +34,7 @@ Sau khi ăn xong, bạn có thể gọi ngay thức uống ở đây từ cà ph
 ## 3. Giá cả phù hợp cho sinh viên.
 Vì có nhiều hãng bán đồ ở đây, sinh viên có nhiều sự lựa chọn đồ ăn hợp với kinh phí của mình.  
 Từ 20k bạn có thể gọi dĩa cơm hay mì đơn giản hoặc tiêu 45k cho những món xịn xò hơn và khẩu phần ăn luôn đảm bảo bạn sẽ rời căn tin no bụng.  
-![Một quán bán cơm sinh viên](/assets/images/quan_com_can_tin_IU_sinh_vien.jpg)  
+![Một quán bán cơm sinh viên](/assets/images/quan_com_can_tin_IU_sinh_vien.webp)  
 *Một hãng bán cơm châu Á sinh viên*
 
 

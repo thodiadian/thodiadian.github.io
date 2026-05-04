@@ -6,7 +6,7 @@ categories: [Review, chè, ăn vặt]
 tags: [cá viên chiên, chè, ăn vặt, ăn đêm]  
 description: "Review quán chè sinh viên ngon rẻ chè Thắm - quán chè mở về đêm khuya"  
 image:  
-  path: /assets/images/che_an_vat_tham_thumbnail.jpg  
+  path: /assets/images/che_an_vat_tham_thumbnail.webp  
   alt: "Quán chè ăn vặt đêm chè Thắm"  
 ---
 
@@ -17,7 +17,7 @@ image:
 Quán được bố trí trước sân nhà nhìn ra ngoài đường, tạo không gian thông thoáng.  
 Bàn ghế được bố trí theo nhóm nên các bạn tha hồ rủ bạn bè đi ăn chè chung để thông thả trò chuyện giải trí với nhau
 
-![Quán chè Thắm sinh viên về đêm](/assets/images/quan_che_an_vat_sinh_vien_tham.jpg)  
+![Quán chè Thắm sinh viên về đêm](/assets/images/quan_che_an_vat_sinh_vien_tham.webp)  
 *Ảnh quán chè sáng sủa, mở về đêm*
 
 ## 2.  Tới quán chè Thắm ăn gì ?
@@ -29,7 +29,7 @@ Nước chè quán làm không quá ngọt đến lấn át vị của topping, 
 
 ### 2.2. Đủ các loại cá viên chiên
 Ngoài việc bán chè, quán còn bán các loại cá viên chiên như bò viên, xúc xích, chả cá, hột gà nướng,... Ăn khá là ổn và vị mặn của thịt đi rất hợp với vị ngọt của các ly chè
-![Menu quán chè Thắm siêu rẻ](/assets/images/menu_che_tham_ngon_re.jpg)
+![Menu quán chè Thắm siêu rẻ](/assets/images/menu_che_tham_ngon_re.webp)
 
 💡 **Mẹo nhỏ:** Hãy thử gọi món chè sầu riêng, đây là món best-seller của quán đấy!
 

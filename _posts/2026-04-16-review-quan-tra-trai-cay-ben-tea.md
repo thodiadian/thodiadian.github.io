@@ -6,7 +6,7 @@ categories: [Review, Trà trái cây]
 tags: [trà dĩ an, trà trái cây, gần làng đại học]  
 description: "Review quán trà trái cây Ben - quán trà trái cây, sữa chua, trà sữa ngon nhất và gần làng đại học."  
 image:  
-  path: /assets/images/tra_trai_cay_ben_tea.jpg  
+  path: /assets/images/tra_trai_cay_ben_tea.webp  
   alt: "Quán trà trái cây Ben tea siêu ngon"  
 ---
 
@@ -14,7 +14,7 @@ image:
 
 ## 1.Trà trái cây Ben tea có gì đặc biệt ?
 
-![[Hình ảnh quán trà trái cây tươi ngon Ben]](/assets/images/tra_trai_cay_ben_tea.jpg)  
+![[Hình ảnh quán trà trái cây tươi ngon Ben]](/assets/images/tra_trai_cay_ben_tea.webp)  
 *Chú thích ảnh:không gian quán chill, im ắng*
 
 ### 1.1. Đủ các loại trà trái cây tươi
@@ -30,7 +30,7 @@ Các loại sữa chua cũng như vậy, đủ độ chua, ăn mềm dịu, khô
 Chỉ từ 25k là bạn có thể mua một ly nước tươi ngon mát mẻ, dù giá cả không thể gọi là thân thiện với giới sinh viên lắm.  
 Nhưng theo tác giả thì đây là giá khá trạnh canh với các hàng báng khác nhưng chất lượng thì rất cao, nên nếu bạn thèm một ly trà trái cây tươi ngon thì nên đến tiệm trà Ben
 
-![[Menu quán cập nhật mới nhất]](/assets/images/menu_tra_trai_cay_ben_tea.jpg)  
+![[Menu quán cập nhật mới nhất]](/assets/images/menu_tra_trai_cay_ben_tea.webp)  
 *Các đồ uống ngon của quán*
 
 ## 3.Thông tin liên hệ & Bản đồ

@@ -6,7 +6,7 @@ categories: [Review, Cơm gà, Cơm trưa, Cơm]
 tags: [cơm sinh viên, cơm gà, làng đại học]  
 description: "Review cơm gà xối mỡ làng đại học sinh viên - cơm gà sốt cay ngon rẻ cho sinh viên"  
 image:  
-  path: /assets/images/quan_com_ga_green.jpg 
+  path: /assets/images/quan_com_ga_green.webp 
   alt: "Quán cơm gà xối mỡ Green cho sinh viên"  
 ---
 
@@ -20,7 +20,7 @@ Quán không chỉ bán cơm gà không thôi mà còn bán cơm mực sữa chi
 
 ## 2. Cơm ăn no giá rẻ
 Vì là quán cơm trong làng đại học nên giá cả của quán rất chi là chăng nhưng khẩu phần vẫn đầy đủ cơm thịt rau dưa, còn được cho canh chua miễn phí nữa, ăn ở đây là đủ năng lượng với dinh dưỡng cho cả năm học đại học rồi. Chỉ với 25k là bạn gọi được phần cơm gà sốt cay đặc biệt ăn no bụng của quán.  
-![Menu cơm gà xối mỡ Green](/assets/images/menu_quan_com_ga_green_ngon.jpg)
+![Menu cơm gà xối mỡ Green](/assets/images/menu_quan_com_ga_green_ngon.webp)
 
 
 

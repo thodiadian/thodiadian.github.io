@@ -6,7 +6,7 @@ categories: [Review, ăn uống]
 tags: [bò né, ăn uống, bò bít tết, làng đại học]  
 description: "Review Quán bò né Chibi - quán bò né ngon nhất và rẻ nhất trong làng đại học"  
 image:  
-  path: /assets/images/quan_bo_ne_chibi_sinh_vien.jpg 
+  path: /assets/images/quan_bo_ne_chibi_sinh_vien.webp 
   alt: "Quán bò né Chibi trong làng đại học"  
 ---
 
@@ -24,7 +24,7 @@ Quán làm ngồi ở trong nhà, không gian rộng kha khá, không bị len l
 Quán làm khẩu phần nhiều thịt bò, đậm vị, mềm, không bị khô; patê xíu mại xúc xích đi kèm cũng vậy, rất tươi ngon và đi kèm hoàn hảo với nhau;  
 trứng gà chiên mềm, không chín quá; bánh mì giòn và ấm
 
-![Menu quán bò né Chibi siêu rẻ](/assets/images/menu_bo_ne_chibi_sinh_vien.jpg)
+![Menu quán bò né Chibi siêu rẻ](/assets/images/menu_bo_ne_chibi_sinh_vien.webp)
 
 
 ## 3. Giá cả hợp với túi tiền sinh viên

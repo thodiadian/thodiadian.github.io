@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [cafe dĩ an, cafe học bài, gần ký túc xá]  
 description: "[Review quán cafe Ken house - quán cafe chill thư giãn, học bài có máy lạnh]"  
 image:  
-  path: /assets/images/ken_cafe_hoc_bai_thu_gian.jpg  
+  path: /assets/images/ken_cafe_hoc_bai_thu_gian.webp  
   alt: "Hình quán cafe Ken House thư giãn"  
 ---
 
@@ -14,7 +14,7 @@ image:
 
 ## 1. Không gian quán cà phê Ken house có gì đặc biệt ?
 
-![Không gian yên tĩnh Ken cafe](/assets/images/khong_gian_ken_cafe_sang_yen_tinh.jpg)  
+![Không gian yên tĩnh Ken cafe](/assets/images/khong_gian_ken_cafe_sang_yen_tinh.webp)  
 *Không gian yên tĩnh tại quán*
 
 ### 1.1.  Khu vực phòng lạnh.
@@ -29,7 +29,7 @@ Quán bán đủ các loại đồ uống từ cà phê, nước ép, sinh tố,
 Tất cả các đồ uống đều được làm rất xịn xò, nguyên liệu chất lượng cao, kỹ thuật làm nước chuyên nghiệp và uống rất ngon.  
 Giá của quán nằm ở phía đắt hơn cho kinh phí của các bạn sinh viên, trung bình là 30k cho các đồ uống. Nhưng có cà phê đen 20k khá rẻ.
 
-![Menu quán Ken cafe cập nhật mới nhất](/assets/images/menu_ken_cafe_ngon_da_dang.jpg)
+![Menu quán Ken cafe cập nhật mới nhất](/assets/images/menu_ken_cafe_ngon_da_dang.webp)
 
 ## 3. Đánh giá ưu và nhược điểm
 

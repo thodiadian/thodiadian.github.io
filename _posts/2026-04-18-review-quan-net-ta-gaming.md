@@ -6,7 +6,7 @@ categories: [Review, giải trí]
 tags: [tiệm net, net cafe, gần ký túc xá]  
 description: "Review quán net T.A Gaming - quán chơi net có máy lạnh, hiện đại, gần ký túc xá"  
 image:  
-  path: /assets/images/quan_net_ta_gaming_gan_ktx.jpg 
+  path: /assets/images/quan_net_ta_gaming_gan_ktx.webp 
   alt: "Hình quán net T.A gaming về đêm"  
 ---
 
@@ -14,7 +14,7 @@ image:
 
 ## 1. Không gian quán net T.A Gaming có gì đặc biệt ?
 
-![Không gian vui chơi máy lạnh của quán net](/assets/images/khong_gian_net_gaming_thong_thoang.jpg)  
+![Không gian vui chơi máy lạnh của quán net](/assets/images/khong_gian_net_gaming_thong_thoang.webp)  
 *Không gian chơi game máy lạnh*
 
 Quán net có diện tích khá nhỏ khi so với những đối thủ khác, tầm 40 máy.  

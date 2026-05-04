@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [cafe dĩ an, cafe học bài, cafe box, gần làng đại học]  
 description: "Review quán cafe Netudy Box - cà phê box thuê phòng học bài rẻ, lí tưởng, gần làng đại học"  
 image:  
-  path: /assets/images/cafe_box_netudy_re.jpg  
+  path: /assets/images/cafe_box_netudy_re.webp  
   alt: "Quán cà phê box Netudy"  
 ---
 
@@ -15,7 +15,7 @@ image:
 
 ## 1. Không gian quán cà phê Netudy Box có gì đặc biệt ?
 
-![Box làm việc yên tĩnh](/assets/images/phong_netudy_cafe_yen_tinh.jpg)  
+![Box làm việc yên tĩnh](/assets/images/phong_netudy_cafe_yen_tinh.webp)  
 *Phòng làm việc yên tĩnh tại quán*
 
 Quán chuyên cho thuê các phòng làm việc 1 đến 2 người và các phòng họp cho nhóm đông người.  
@@ -27,7 +27,7 @@ Các phòng họp còn có ghế tựa văn phòng hiện đại và tivi để 
 Chỉ từ 9k thôi là bạn có thể thuê một phòng làm việc yên tĩnh trong 3 giờ, giá còn giảm khi thuê nhiều giờ trở lên.  
 Quán không bán đa dạng đồ uống lắm, chủ yếu là cà phê, trà trái cây và nước ngọt, và hơi đắt từ trung bình 30k một ly nước.
 
-![Menu quán Netudy mới nhất](/assets/images/menu_thue_phong_netudy_box_cafe_sieu_re.jpg)  
+![Menu quán Netudy mới nhất](/assets/images/menu_thue_phong_netudy_box_cafe_sieu_re.webp)  
 *Menu thuê box học giá rẻ*
 
 ## 3. Đánh giá ưu và nhược điểm

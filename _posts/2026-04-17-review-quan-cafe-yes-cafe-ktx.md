@@ -6,14 +6,14 @@ categories: [Review, Cà phê]
 tags: [cafe dĩ an, cafe học bài, làng đại học]  
 description: "Review quán Yes cafe - quán cafe học bài im ắng, rẻ, gần làng đại học, đầy đủ tiện nghi"  
 image:  
-  path: /assets/images/quan_yes_cafe.jpg  
+  path: /assets/images/quan_yes_cafe.webp  
   alt: "[Quán Yes cafe yên tĩnh]"  
 ---
 *Bạn đang tìm kiếm một **quán cafe học bài yên tĩnh ở Dĩ An** để làm việc hay thư giãn? Hãy cùng Thổ Địa Dĩ An khám phá quán Yes cafe*
 
 ## 1.Không gian quán cà phê YES có gì đặc biệt
 
-![Không gian học tập yên tĩnh](/assets/images/khong_gian_yes_cafe_yen_tinh.jpg)  
+![Không gian học tập yên tĩnh](/assets/images/khong_gian_yes_cafe_yen_tinh.webp)  
 *Chú thích ảnh: Không gian yên tĩnh tại quán*
 
 ### 1.1. Khu vực uống cà phê rộng rãi 
@@ -23,7 +23,7 @@ Quán nhìn ra con đường im ắng, ít tiếng ồn xe, có vòi phun sươn
 ### 1.2. Có study box
 **Nếu bạn muốn có không gian làm việc im ắng và riêng tư hơn nữa, quán có cho thuê những phòng làm việc riêng với đầy đủ tiện nghi.  
 Study box rộng rãi, chứa được tới 3 người, có chỗ cắm điện, quạt, nhà vệ sinh, chỗ ngủ, wifi mạnh.**  
-![Menu thuê phòng học giá sinh viên](/assets/images/menu_thue_phong_yes_cafe_re.jpg)
+![Menu thuê phòng học giá sinh viên](/assets/images/menu_thue_phong_yes_cafe_re.webp)
 ## 2. Đồ uống ngon
 
 **Quán bán nhiều loại đồ uống như cà phê, trà, sinh tố, đá xay, cacao, sữa chua ngon và hợp khẩu vị cho nhiều người.  

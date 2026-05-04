@@ -6,7 +6,7 @@ categories: [Review, cơm sáng, cơm trưa, cơm sinh viên, cơm tối]
 tags: [ăn uống, cơm, làng đại học]  
 description: "Review quán cơm tấm sinh viên Ngô Quyền - quán cơm ngô quyền ngon nhất gần làng đại học"  
 image:  
-  path: /assets/images/quan_com_ngo_quyen_ngon_nhat.jpg  
+  path: /assets/images/quan_com_ngo_quyen_ngon_nhat.webp  
   alt: "Ảnh quán cơm tấm sinh viên Ngô Quyền 3"  
 ---
 
@@ -16,7 +16,7 @@ image:
 
 Quán cơm có không gian trong nhà rộng rãi, nhìn ra ngoài đường nên rất thông thoáng, không bị ngộp mùi khói nấu nướng, bàn ghế chứa được cỡ 20-30 người, nên bạn tha hồ rủ rê bạn bè đi ăn chung cho vui.  
 Nhưng mà quán không có chỗ đậu xe nên phải đậu ở vỉa hè trước quán, giữa trưa cũng khá là nắng nên nếu bạn học trong làng đại học mà qua đây ăn thì nên đi bộ nếu ngại để xe nắng nhé.  
-![Không gian quán cơm tấm sinh viên](/assets/images/quan_com_ngo_quyen_ngon_nhat.jpg)
+![Không gian quán cơm tấm sinh viên](/assets/images/quan_com_ngo_quyen_ngon_nhat.webp)
 
 ## 2. Menu và Giá cả phù hợp với sinh viên Làng Đại học
 
