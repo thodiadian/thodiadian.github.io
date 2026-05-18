@@ -194,13 +194,12 @@ compress_html:
   blanklines: false
   ignore:
     envs: [development]
-    
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
-  
+
 exclude:
   - "*.gem"
   - "*.gemspec"
