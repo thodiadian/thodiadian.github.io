@@ -71,6 +71,4 @@ Nếu bạn ưu tiên **đồ uống ngon – nguyên liệu tươi**, thì mứ
 
 ---
 
-**Bài viết liên quan bạn nên xem:** 
-- Đừng bỏ lỡ: [Tiệm net gaming xả hơi nhất ở ký túc xá](/posts/review-quan-net-ta-gaming)
-- Ăn uống cho sinh viên: [Quán hủ tiếu ngon nhất, rẻ nhất phố đi bộ Tân Lập](/posts/review-quan-hu-tiu-tan-lap)
+{% include category-posts.html %}

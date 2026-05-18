@@ -65,6 +65,4 @@ Giá của quán nằm ở phía đắt hơn cho kinh phí của các bạn sinh
 
 ---
 
-**Bài viết liên quan bạn nên xem:**  
-- Đừng bỏ lỡ: [study box rẻ nhất gần làng đại học](/posts/review-quan-cafe-NETUDY-BOX)
-- Xem ngay: [Tiệm net giải trí ngày hè](/posts/review-quan-net-ta-gaming)
+{% include category-posts.html %}

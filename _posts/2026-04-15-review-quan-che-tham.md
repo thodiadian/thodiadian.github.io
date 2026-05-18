@@ -74,7 +74,5 @@ Chỉ cần khoảng 30.000đ – 50.000đ là bạn đã có thể có một bu
 
 ---
 
-**Bài review ăn vặt khác của chúng tôi:** - 
-- Đừng bỏ lỡ: [Review quán trà trái cây ngon nhất Dĩ An](/posts/review-quan-tra-trai-cay-ben-tea)
-
+{% include category-posts.html %}
 

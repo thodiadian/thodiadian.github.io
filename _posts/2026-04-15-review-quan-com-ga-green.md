@@ -43,6 +43,5 @@ Vì là quán cơm trong làng đại học nên giá cả của quán rất chi
 
 ---
 
-**Xem các bài review cơm sinh viên khác của Thổ địa Dĩ An:**  
-- Nhấn vào đây để xem thêm: [Cơm tấm Ngô Quyền ngon nhất ở làng đại học](/posts/review-quan-com-ngo-quyen)  
+{% include category-posts.html %}
 

@@ -69,5 +69,4 @@ Khẩu phần ăn vừa đủ no so với giá.
 
 ---
 
-**Bài viết liên quan bạn nên xem:**  
-- Đừng bỏ lỡ: [Quán cơm tấm ngon gần làng đại học](/posts/review-quan-com-ngo-quyen)
+{% include category-posts.html %}

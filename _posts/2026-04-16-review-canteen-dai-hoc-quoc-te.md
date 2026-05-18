@@ -69,5 +69,4 @@ Một điểm cộng lớn là **mức giá linh hoạt**:
 
 ---
 
-**Bài viết liên quan bạn nên xem :** 
-- Đừng bỏ lỡ: [Review quán hủ tiếu rẻ nhất cho sinh viên](/posts/review-quan-hu-tiu-tan-lap)
+{% include category-posts.html %}

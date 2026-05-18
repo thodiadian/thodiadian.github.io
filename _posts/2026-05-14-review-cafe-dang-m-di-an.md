@@ -119,6 +119,6 @@ Một điểm được đánh giá cao là:
 - **🗺️ Google Maps:** [Đặng M cafe - Dĩ An](https://maps.app.goo.gl/7HzoxttfjSskyKAb8)
 
 ---
-
+{% include category-posts.html %}
 
 

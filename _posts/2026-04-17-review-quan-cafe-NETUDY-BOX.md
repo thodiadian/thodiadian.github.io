@@ -62,6 +62,4 @@ Quán không bán đa dạng đồ uống lắm, chủ yếu là cà phê, trà 
 
 ---
 
-**Bài viết liên quan bạn nên xem:** 
-- Đừng bỏ lỡ: [Kinh nghiệm thuê study box gần ký túc xá](/posts/review-quan-cafe-yes-cafe-ktx)
-- Xem ngay: [Cà phê học tập máy lạnh gần ký túc xá](/posts/review-quan-cafe-ken-house)
+{% include category-posts.html %}
