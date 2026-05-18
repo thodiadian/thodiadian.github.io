@@ -3,7 +3,7 @@ layout: post
 title:  "Review Cafe ĐẶNG M Dĩ An – Quán cafe decor đẹp, cực chill để học bài và sống ảo"  
 date: 2026-05-15 08:00:00 +0700  
 categories: [Review, Cà phê]
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, cà phê dĩ an, check in dĩ an]  
+tags: [cafe di an, check in di an]  
 description:  "Review ĐẶNG M Dĩ An – quán cafe thiết kế tối giản hiện đại, nhiều góc sống ảo đẹp." 
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122438/vbmfuwmzom4iykax7ual.webp

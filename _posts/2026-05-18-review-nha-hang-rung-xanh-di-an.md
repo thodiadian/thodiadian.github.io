@@ -3,7 +3,7 @@ layout: post
 title: "Review Nhà Hàng Rừng Xanh Dĩ An: Ốc Đảo Xanh Cho Dân Nhậu Và Tiệc Gia Đình"
 date: 2026-05-18 14:00:00 +0700
 categories: [Review, Ẩm thực]
-tags: [ăn uống dĩ an, nhà hàng dĩ an, tiệc tùng dĩ an]
+tags: [quan an di an]
 description: "Khám phá Nhà Hàng Rừng Xanh - ốc đảo xanh mát tại Khu Phố Thống Nhất 1, Dĩ An. Review chi tiết không gian, thực đơn đặc sản dê và hải sản, cùng dịch vụ đặt tiệc."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122432/v3kknnmxef28yrygbap1.jpg

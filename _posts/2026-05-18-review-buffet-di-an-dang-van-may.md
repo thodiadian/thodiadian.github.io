@@ -3,7 +3,7 @@ layout: post
 title: "Review Buffet Dĩ An Đặng Văn Mây: 'Tọa Độ Vàng' Cho Tín Đồ Hải Sản, Ăn Thả Ga Chỉ Từ 209k"
 date: 2026-05-18 20:00:00 +0700
 categories: [Review, Ẩm thực]
-tags: [ăn uống dĩ an, buffet dĩ an, buffet hải sản]
+tags: [quan an di an, buffet di an]
 description: "Khám phá Buffet Dĩ An - Đặng Văn Mây, thiên đường hải sản tươi sống 'ăn thả ga' tại khu phố Đông Chiêu, Dĩ An. Review chi tiết thực đơn 80 món, giá vé ưu đãi và không gian nhộn nhịp."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122397/wdnjmtzurybne8uccumm.jpg

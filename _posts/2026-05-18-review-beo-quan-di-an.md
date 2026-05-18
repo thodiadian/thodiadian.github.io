@@ -3,7 +3,7 @@ layout: post
 title: "Review Béo Quán Dĩ An: Thiên Đường Nướng Lẩu & Nhậu Chill Cực Đã Tại 45 Nguyễn Du"
 date: 2026-05-18 09:00:00 +0700
 categories: [Review, Ẩm thực]
-tags: [ăn uống dĩ an, quán nướng dĩ an, lẩu nướng]
+tags: [quan an di an, buffet di an]
 description: "Khám phá Béo Quán - địa điểm BBQ & Chill sôi động bậc nhất tại 45 Nguyễn Du, Dĩ An. Review chi tiết thực đơn hơn 50 món, không gian chill và dịch vụ đặt bàn."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122416/g6xinq8cw0i0joty9qn1.jpg

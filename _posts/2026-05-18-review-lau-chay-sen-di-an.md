@@ -3,7 +3,7 @@ layout: post
 title: "Review Lẩu Chay Sen Dĩ An: Ốc Đảo Thanh Tịnh Cho Tín Đồ Ẩm Thực Thuần Chay"
 date: 2026-05-18 16:00:00 +0700
 categories: [Review, Ẩm thực]
-tags: [ăn uống dĩ an, quán chay dĩ an, lẩu chay]
+tags: [quan an di an]
 description: "Khám phá Lẩu Chay Sen - ốc đảo thanh tịnh dành cho tín đồ ẩm thực thuần chay tại Hẻm 340 Nguyễn An Ninh, Dĩ An. Review chi tiết không gian, thực đơn lẩu Thái - lẩu Nấm và dịch vụ."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122440/mlyo6klemsxfnzkyydaw.jpg

@@ -3,7 +3,7 @@ layout: post
 title: "Review Lẩu Nướng Cần Giờ Dĩ An: Thiên Đường Lẩu Nướng 'Bình Dân' Cho Sinh Viên Làng Đại Học"
 date: 2026-05-18 16:00:00 +0700
 categories: [Review, Ẩm thực]
-tags: [ăn uống dĩ an, lẩu nướng dĩ an, quán ăn sinh viên]
+tags: [quan an di an]
 description: "Khám phá Lẩu Nướng Cần Giờ - thiên đường lẩu nướng bình dân cho sinh viên tại 151 Tô Vĩnh Diện, Đông Hòa, Dĩ An. Review chi tiết không gian 3 lầu, menu hơn 40 món nướng và lẩu hải sản."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122402/sq7rzslvqhtfunk4gtdc.jpg

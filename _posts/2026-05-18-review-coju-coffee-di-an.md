@@ -3,7 +3,7 @@ layout: post
 title: "Khám Phá COJU Coffee Dĩ An: Điểm Hẹn Cà Phê & Nước Ép Healthy Giữa Lòng Trung Tâm Hành Chính"
 date: 2026-05-18 20:00:00 +0700
 categories: [Review, Cà phê]
-tags: [cafe dĩ an, check in dĩ an, cà phê trung tâm hành chính]
+tags: [cafe di an, check in di an]
 description: "Khám phá COJU Coffee - điểm hẹn cà phê và nước ép healthy xanh mát tại 35 Đường L, Trung tâm Hành chính Dĩ An. Review chi tiết không gian, menu và dịch vụ."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122434/i5j4zgm6sc6pj5jii765.jpg
